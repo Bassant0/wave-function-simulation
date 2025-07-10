@@ -47,7 +47,7 @@ It’s a great way to understand wave mechanics with just a bit of math and Pyth
 3. Run the simulation:
     ```bash
     python gaussianwavefunction.py
-## Behind the Scenes: The Formula
+## The Formula
 The wave function is calculated using:
 
     ```
@@ -61,4 +61,6 @@ The wave function is calculated using:
 
     ħ: reduced Planck’s constant (set to 1 for simplicity)
 ## Sample Output: 
+![Propability Density Function Plot](propailitydensityfunction.png)
+![Wave Function Plot](wavefunctionfinal.png)
 
