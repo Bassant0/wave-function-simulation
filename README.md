@@ -63,4 +63,8 @@ The wave function is calculated using:
 ## Sample Output: 
 ![Propability Density Function Plot](propailitydensityfunction.png)
 ![Wave Function Plot](wavefunctionfinal.png)
+Author
+Bassant Ahmed Salama
+2025
+
 
