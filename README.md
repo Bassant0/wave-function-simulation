@@ -40,3 +40,11 @@ It’s a great way to understand wave mechanics with just a bit of math and Pyth
    ```bash
    git clone https://github.com/Bassant0/wave-function-simulation.git
    cd wave-function-simulation
+2. Install the required libraries (if not already installed):
+    ```bash
+   pip install numpy matplotlib
+
+3. Run the simulation:
+    ```bash
+    python gaussianwavefunction.py
+
