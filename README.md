@@ -50,7 +50,7 @@ It’s a great way to understand wave mechanics with just a bit of math and Pyth
 ## Behind the Scenes: The Formula
 The wave function is calculated using:
 
-    ```bash
+   ```bash
 
       ψ(x, t) = (2a/π)^1/4 × 1 / sqrt(1 + (2iħt)/m) × exp[-a x² / (1 + (2iħt)/m)]
       Where:
