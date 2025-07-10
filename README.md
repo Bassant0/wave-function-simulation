@@ -60,3 +60,7 @@ a: controls the initial width (spread) of the wave packet
 m: mass of the particle
 
 ħ: reduced Planck’s constant (set to 1 for simplicity)
+
+
+## Sample Output
+
