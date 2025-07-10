@@ -30,7 +30,7 @@ It’s a great way to understand wave mechanics with just a bit of math and Pyth
 
 - **Python 3**
 - **NumPy** – for efficient numerical computations.
-- **Matplotlib** – for plotting beautiful wave visuals.
+- **Matplotlib** – for plotting wave visuals.
 
 ---
 
@@ -47,4 +47,17 @@ It’s a great way to understand wave mechanics with just a bit of math and Pyth
 3. Run the simulation:
     ```bash
     python gaussianwavefunction.py
+## Behind the Scenes: The Formula
+The wave function is calculated using:
 
+ ```bash
+Copy
+Edit
+ψ(x, t) = (2a/π)^1/4 × 1 / sqrt(1 + (2iħt)/m) × exp[-a x² / (1 + (2iħt)/m)]
+Where:
+
+a: controls the initial width (spread) of the wave packet
+
+m: mass of the particle
+
+ħ: reduced Planck’s constant (set to 1 for simplicity)
